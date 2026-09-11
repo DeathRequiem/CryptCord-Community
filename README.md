@@ -1,7 +1,7 @@
 # CryptCord
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeathRequiem/CryptCord/master/assets/logo.png" alt="CryptCord" width="180" />
+  <img src="assets/logo.png" alt="CryptCord" width="180" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.reaperscrypt.com">
-    <img src="https://raw.githubusercontent.com/DeathRequiem/CryptCord/master/assets/logo-reaperscrypt.png" alt="Reaper's Crypt" width="160" />
+    <img src="assets/logo-reaperscrypt.png" alt="Reaper's Crypt" width="160" />
   </a>
 </p>
 
