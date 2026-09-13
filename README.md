@@ -66,21 +66,17 @@ CryptCord checks for updates automatically on every launch. If a new version is 
 ## Screenshots
 
 <p align="center">
-  <a href="assets/screenshots/login.png"><img src="assets/screenshots/login.png" alt="Login" width="120" /></a>
-  &nbsp;&nbsp;
-  <a href="assets/screenshots/auto-updates.png"><img src="assets/screenshots/auto-updates.png" alt="Auto Updates" width="120" /></a>
+  <a href="assets/screenshots/login.png"><img src="assets/screenshots/login.png" alt="Login" width="160" /></a>
+  &nbsp;
+  <a href="assets/screenshots/auto-updates.png"><img src="assets/screenshots/auto-updates.png" alt="Auto Updates" width="160" /></a>
+  &nbsp;
+  <a href="assets/screenshots/slash-commands.png"><img src="assets/screenshots/slash-commands.png" alt="Slash Commands" width="160" /></a>
 </p>
 
 <p align="center">
-  <a href="assets/screenshots/main-interface.png"><img src="assets/screenshots/main-interface.png" alt="Main Interface" width="280" /></a>
-</p>
-
-<p align="center">
-  <a href="assets/screenshots/dms.png"><img src="assets/screenshots/dms.png" alt="Direct Messages" width="280" /></a>
-</p>
-
-<p align="center">
-  <a href="assets/screenshots/slash-commands.png"><img src="assets/screenshots/slash-commands.png" alt="Slash Commands Picker" width="200" /></a>
+  <a href="assets/screenshots/main-interface.png"><img src="assets/screenshots/main-interface.png" alt="Main Interface" width="240" /></a>
+  &nbsp;
+  <a href="assets/screenshots/dms.png"><img src="assets/screenshots/dms.png" alt="Direct Messages" width="240" /></a>
 </p>
 
 ---
