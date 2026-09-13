@@ -63,6 +63,30 @@ CryptCord checks for updates automatically on every launch. If a new version is 
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/login.png" alt="Login" width="320" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/auto-updates.png" alt="Auto Updates" width="320" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/main-interface.png" alt="Main Interface" width="800" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/dms.png" alt="Direct Messages" width="800" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/slash-commands.png" alt="Slash Commands Picker" width="600" />
+</p>
+
+---
+
 ## Bugs & Feature Requests
 
 Use the [Issues](https://github.com/DeathRequiem/CryptCord-Community/issues) tab to report bugs or suggest new features. Please check for existing issues before opening a new one.
