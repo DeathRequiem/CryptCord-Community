@@ -44,12 +44,12 @@ CryptCord checks for updates automatically on every launch. If a new version is 
 
 ### Mobile
 
-| Platform | Status |
+| Platform | Link |
 |---|---|
-| Android | Early access — coming soon |
+| Android | [Download APK](https://github.com/DeathRequiem/CryptCord/releases/latest/download/cryptcord.apk) |
 | iOS | Planned |
 
-The Android app is currently in early testing. Join the community and follow the Issues tab for announcements when it becomes available.
+Sideload the APK directly onto your Android device. Enable "Install from unknown sources" in your Android settings if prompted.
 
 ---
 
