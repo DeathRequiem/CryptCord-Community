@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  A native desktop chat client for <a href="https://spacebar.chat">Spacebar</a>-compatible servers, built with Electron and React.
+  A native chat client for <a href="https://spacebar.chat">Spacebar</a>-compatible servers — desktop and mobile.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue" alt="Platform" />
+  <img src="https://img.shields.io/badge/mobile-Android-green" alt="Mobile" />
   <img src="https://img.shields.io/badge/version-0.2.11-brightgreen" alt="Version" />
   <img src="https://img.shields.io/badge/status-early%20access-orange" alt="Status" />
 </p>
@@ -31,6 +32,8 @@
 
 ## Download
 
+### Desktop
+
 | Platform | Link |
 |---|---|
 | Windows | [Download Installer](https://api.reaperscrypt.com/download/windows) |
@@ -39,10 +42,20 @@
 
 CryptCord checks for updates automatically on every launch. If a new version is available it downloads and installs silently in the background — no prompts required.
 
+### Mobile
+
+| Platform | Status |
+|---|---|
+| Android | Early access — coming soon |
+| iOS | Planned |
+
+The Android app is currently in early testing. Join the community and follow the Issues tab for announcements when it becomes available.
+
 ---
 
 ## Features
 
+### Desktop
 - Connect to any Spacebar-compatible server
 - Real-time messaging via WebSocket gateway
 - Guild and channel navigation
@@ -60,6 +73,13 @@ CryptCord checks for updates automatically on every launch. If a new version is 
 - Persistent login session across restarts
 - Automatic updates on launch with splash screen and download progress
 - Native frameless window with custom titlebar
+
+### Mobile (Android)
+- Login with email, password, and MFA support
+- Guild and channel navigation
+- Real-time messaging
+- Direct messages
+- Send messages
 
 ---
 
