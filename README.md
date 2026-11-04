@@ -39,6 +39,7 @@
 | Windows | [Download Installer](https://api.reaperscrypt.com/download/windows) |
 | macOS | [Download DMG](https://api.reaperscrypt.com/download/mac) |
 | Linux | [Download AppImage](https://api.reaperscrypt.com/download/linux) |
+| Android | [Download APK](https://api.reaperscrypt.com/download/android) |
 
 CryptCord checks for updates automatically on every launch. If a new version is available it downloads and installs silently in the background — no prompts required.
 
