@@ -39,7 +39,6 @@
 | Windows | [Download Installer](https://api.reaperscrypt.com/download/windows) |
 | macOS | [Download DMG](https://api.reaperscrypt.com/download/mac) |
 | Linux | [Download AppImage](https://api.reaperscrypt.com/download/linux) |
-| Android | [Download APK](https://api.reaperscrypt.com/download/android) |
 
 CryptCord checks for updates automatically on every launch. If a new version is available it downloads and installs silently in the background — no prompts required.
 
@@ -47,7 +46,7 @@ CryptCord checks for updates automatically on every launch. If a new version is 
 
 | Platform | Link |
 |---|---|
-| Android | [Download APK](https://github.com/DeathRequiem/CryptCord/releases/latest/download/cryptcord.apk) |
+| Android | [Download APK](https://api.reaperscrypt.com/download/android) |
 | iOS | Planned |
 
 Sideload the APK directly onto your Android device. Enable "Install from unknown sources" in your Android settings if prompted.
